@@ -6,3 +6,9 @@ theme:
   font:
     text: Lato
     code: Ubuntu Sans Mono
+
+
+extra:
+  social:
+    - icon: fontawesome/brands/x-twitter
+      link: https://twitter.com/KatarinaKajan
