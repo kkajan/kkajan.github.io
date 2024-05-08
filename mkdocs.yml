@@ -3,3 +3,6 @@ theme:
   name: material
   palette:
     primary: teal
+  font:
+    text: Lato
+    code: Ubuntu Sans Mono
