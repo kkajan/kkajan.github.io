@@ -20,7 +20,8 @@ Ekologija voda; Mikrobiologija; Molekularna biologija; Bioinformatika
 
 ## Akademsko obrazovanje
 
-04\.2024\. - danas **Administrator baza podataka**
+04\.2024\. - danas **Administrator baza podataka** - Online
+
 - Sveučilište Algebra, Zagreb
 
 11\.2018\. – 11\.2023\. **Doktorica znanosti (dr.sc.)**
@@ -38,17 +39,17 @@ Geološki odsjek, Prirodoslovno-matematički fakultet, Sveučilište u Zagrebu, 
 
 ## Znanstveno-stručne prakse
 
-02\.-03\.2024\. / 07\.2022\. - **Department of Aquatic Sciences and Assessment, Swedish University of Agricultural Sciences, Uppsala, Sweden – mentor: dr.sc. Maliheh Mershad** (FEMS scholarship / STIM-REI financiranje)
+02\.-03\.2024\. / 07\.2022\. - **Department of Aquatic Sciences and Assessment, Swedish University of Agricultural Sciences, Uppsala, Sweden** – mentor: dr.sc. Maliheh Mershad (FEMS scholarship / STIM-REI financiranje)
 
-10\.2021\. / 04\.2022\. - **Zavod za mikrobnu ekologiju, Odjel za mikrobiologiju i znanosti o ekosustavima, Sveučilište u Beču, Beč, Austrija – mentor: dr.rer.nat. Petra Pjevac** (stipendija IRB / STIM-REI financiranje)
+10\.2021\. / 04\.2022\. - **Zavod za mikrobnu ekologiju, Odjel za mikrobiologiju i znanosti o ekosustavima, Sveučilište u Beču, Beč, Austrija** – mentor: dr.rer.nat. Petra Pjevac (stipendija IRB / STIM-REI financiranje)
 
 02\. – 03\.2019\. - **Zavod za mikrobnu ekologiju, Odjel za mikrobiologiju i znanosti o ekosustavima, Sveučilište u Beču, Beč, Austrija** – mentor: dr.rer.nat. Petra Pjevac (stipendija COST)
 
 06\. – 08\.2018\. - **Odjel za ekologiju, Biološki fakultet, Sveučilište u Kaiserslauternu, Kaiserslautern, Njemačka** - mentor: Prof. Thorsten Stoeck (stipendija COST)
 
-11\.2017. – 03\.2018\. - **Odjel za vodenu mikrobnu ekologiju, Institut hidrobiologije, Biološki centar CAS, České Budějovice, Češka - mentor: Dr.sc. Tatiana Shabarova** (stipendija Erasmus+ program KA1)
+11\.2017. – 03\.2018\. - **Odjel za vodenu mikrobnu ekologiju, Institut hidrobiologije, Biološki centar CAS, České Budějovice, Češka** - mentor: Dr.sc. Tatiana Shabarova (stipendija Erasmus+ program KA1)
 
-01\.2016\. – 04\.2016\. - **Odjel za limnologiju, Sveučilište Pannonia, Veszprém, Mađarska - mentor: Prof. Judit Padisák** (stipendija Erasmus+ program KA1)
+01\.2016\. – 04\.2016\. - **Odjel za limnologiju, Sveučilište Pannonia, Veszprém, Mađarska** - mentor: Prof. Judit Padisák (stipendija Erasmus+ program KA1)
 
 ## Publikacije
 
@@ -88,11 +89,13 @@ https://www.bib.irb.hr/ **Kajan, Katarina (35318)**
 
 ## Sudjelovanje na radionicama i tečajevima
 
-04\.2024\. - Izrada web stranice - Udruga Penkala & Gaseri - Online
+04\.2024\. - "Izrada web stranice" radionica - Udruga Penkala & Gaseri - Online
 
-11.03. - Osnove programiranja (Python) - Srce - Online
+11\.- 14\.03\.2024\. - "Osnove programiranja (Python)" tečaj - Srce - Online
 
-Korištenje računalnog klastera Isabella & Linux za korisnike Isabelle - Srce - Online
+05\.-06\.03\.2024\. "Awareness in Data Management and Analysis for Industry and Research" radionica - BioNT: Training and proessionalisation in computational life science - Online
+
+2022\. - "Korištenje računalnog klastera Isabella" & "Linux za korisnike Isabelle" radionica tečaj - Srce - Online
 
 6\. – 10\.07\.2020\. - “Advanced Programming in R” radionica - Physalia-courses - Online
 
@@ -120,7 +123,8 @@ Bioinformatičke analize	analiza NGS podataka (Unix, QIIME, QIIME2), temeljni ko
 
 ## Digitalne vještine
 
-Microsoft Office (Word, Excel, PowerPoint), BioRender, R softver
+**Microsoft Office (Word, Excel, PowerPoint), BioRender, R softver** - napredno
+**Python, SQL** - početnik
 
 ## Organizacijske vještine
 
