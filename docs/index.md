@@ -10,7 +10,7 @@ Ekologija voda; Mikrobiologija; Molekularna biologija; Bioinformatika
 
 ## Radno iskustvo
 
-12\.2023\. - 
+12\.2023\. - danas **Neovisni istraživač**
 
 04\.2018\. – 11\.2023\. **Asistent - doktorand**
 
@@ -19,6 +19,9 @@ Ekologija voda; Mikrobiologija; Molekularna biologija; Bioinformatika
 
 
 ## Akademsko obrazovanje
+
+04\.2024\. - danas **Administrator baza podataka**
+- Sveučilište Algebra, Zagreb
 
 11\.2018\. – 11\.2023\. **Doktorica znanosti (dr.sc.)**
 
@@ -84,6 +87,12 @@ Broj radova u WoS časopisima: **12**. Ukupni broj citata: **103**. H-indeks: **
 https://www.bib.irb.hr/ **Kajan, Katarina (35318)**
 
 ## Sudjelovanje na radionicama i tečajevima
+
+04\.2024\. - Izrada web stranice - Udruga Penkala & Gaseri - Online
+
+11.03. - Osnove programiranja (Python) - Srce - Online
+
+Korištenje računalnog klastera Isabella & Linux za korisnike Isabelle - Srce - Online
 
 6\. – 10\.07\.2020\. - “Advanced Programming in R” radionica - Physalia-courses - Online
 

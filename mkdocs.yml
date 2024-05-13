@@ -4,7 +4,7 @@ theme:
   palette:
     primary: teal
   font:
-    text: Lato
+    text: Roboto
     code: Ubuntu Sans Mono
 
 
