@@ -10,9 +10,9 @@ Ekologija voda; Mikrobiologija; Molekularna biologija; Bioinformatika
 
 ## Radno iskustvo
 
-12\.2023\. - danas  **Neovisni istraživač**
+12\.2023\. - danas **Neovisni istraživač**
 
-04\.2018\. – 11\.2023\.     **Asistent - doktorand**
+04\.2018\. – 11\.2023\. **Asistent - doktorand**
 
 - Laboratorij za procese taloženja, Zavod za kemiju materijala, Institut Ruđer Bošković (IRB), Zagreb
 - Center of Excellence for Science and Technology-Integration of Mediterranean Region (STIM), Sveučilište u Splitu, Split, Croatia
@@ -20,9 +20,9 @@ Ekologija voda; Mikrobiologija; Molekularna biologija; Bioinformatika
 
 ## Akademsko obrazovanje
 
-04\.2024\. - danas **Administrator baza podataka** - Online
+04\.2024\. - danas **Administrator baza podataka**
 
-- Sveučilište Algebra, Zagreb
+- Sveučilište Algebra, Zagreb - Online
 
 11\.2018\. – 11\.2023\. **Doktorica znanosti (dr.sc.)**
 
@@ -89,19 +89,19 @@ https://www.bib.irb.hr/ **Kajan, Katarina (35318)**
 
 ## Sudjelovanje na radionicama i tečajevima
 
-04\.2024\. - "Izrada web stranice" radionica - Udruga Penkala & Gaseri - Online
+04\.2024\. - *"Izrada web stranice"* radionica - Udruga Penkala & Gaseri - Online
 
-11\.- 14\.03\.2024\. - "Osnove programiranja (Python)" tečaj - Srce - Online
+11\. – 14\.03\.2024\. - *"Osnove programiranja (Python)"* tečaj - Srce - Online
 
-05\.-06\.03\.2024\. "Awareness in Data Management and Analysis for Industry and Research" radionica - BioNT: Training and proessionalisation in computational life science - Online
+05\.– 06\.03\.2024\. *"Awareness in Data Management and Analysis for Industry and Research"* radionica - BioNT: Training and proessionalisation in computational life science - Online
 
-2022\. - "Korištenje računalnog klastera Isabella" & "Linux za korisnike Isabelle" radionica tečaj - Srce - Online
+2022\. - *"Korištenje računalnog klastera Isabella"* & *"Linux za korisnike Isabelle"* radionica tečaj - Srce - Online
 
-6\. – 10\.07\.2020\. - “Advanced Programming in R” radionica - Physalia-courses - Online
+6\. – 10\.07\.2020\. - *“Advanced Programming in R”* radionica - Physalia-courses - Online
 
-5\. – 9\.11\.2018\.	- “A phylogenetically informed curation of Eukaryotic 18S rDNA” EukRef radionica - Station Biologique Roscoff, Roscoff, Francuska
+5\. – 9\.11\.2018\. - *“A phylogenetically informed curation of Eukaryotic 18S rDNA”* EukRef radionica - Station Biologique Roscoff, Roscoff, Francuska
 
-9\. – 16\.09\.2018\. - “Training School 4: Deep Life in Buried Salt Deposits” radionica - School of Biological Sciences University of Essex, University of Essex, Colchester, Velika Britanija
+9\. – 16\.09\.2018\. - *“Training School 4: Deep Life in Buried Salt Deposits”* radionica - School of Biological Sciences University of Essex, University of Essex, Colchester, Velika Britanija
 
 ## Suradnik na znanstvenim projektima
 
@@ -124,6 +124,7 @@ Bioinformatičke analize	analiza NGS podataka (Unix, QIIME, QIIME2), temeljni ko
 ## Digitalne vještine
 
 **Microsoft Office (Word, Excel, PowerPoint), BioRender, R softver** - napredno
+
 **Python, SQL** - početnik
 
 ## Organizacijske vještine
