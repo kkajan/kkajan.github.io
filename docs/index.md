@@ -10,9 +10,9 @@ Ekologija voda; Mikrobiologija; Molekularna biologija; Bioinformatika
 
 ## Radno iskustvo
 
-12\.2023\. - danas **Neovisni istraživač**
+12\.2023\. - danas  **Neovisni istraživač**
 
-04\.2018\. – 11\.2023\. **Asistent - doktorand**
+04\.2018\. – 11\.2023\.     **Asistent - doktorand**
 
 - Laboratorij za procese taloženja, Zavod za kemiju materijala, Institut Ruđer Bošković (IRB), Zagreb
 - Center of Excellence for Science and Technology-Integration of Mediterranean Region (STIM), Sveučilište u Splitu, Split, Croatia
