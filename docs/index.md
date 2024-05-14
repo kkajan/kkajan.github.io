@@ -55,15 +55,15 @@ Geološki odsjek, Prirodoslovno-matematički fakultet, Sveučilište u Zagrebu, 
 
 Broj radova u WoS časopisima: **12**. Ukupni broj citata: **103**. H-indeks: **6**.
 
-<span style="color:blue">**12.**</span> **Kajan K**, Fuchs BM, Orlić S.  Insight into planktonic protistan and fungal communities across the nutrient-depleted environment of the South Pacific Subtropical Gyre. Microbiology spectrum (2024)
+<span style="color:blue">**12.**</span> **Kajan K**, Fuchs BM, Orlić S.  Insight into planktonic protistan and fungal communities across the nutrient-depleted environment of the South Pacific Subtropical Gyre. Microbiology spectrum (2024) doi: 10.1128/spectrum.03016-23 [LINK](https://journals.asm.org/doi/10.1128/spectrum.03016-23)
 
-<span style="color:blue">**11.**</span> **Kajan K**, Osterholz H, Stegen J, Gligora Udovič M, Orlić S. Mechanisms shaping dissolved organic matter and microbial community in lake ecosystems. Water research (2023) doi: 10.1016/j.watres.2023.120653
+<span style="color:blue">**11.**</span> **Kajan K**, Osterholz H, Stegen J, Gligora Udovič M, Orlić S. Mechanisms shaping dissolved organic matter and microbial community in lake ecosystems. Water research (2023) doi: 10.1016/j.watres.2023.120653 [LINK](https://www.sciencedirect.com/science/article/pii/S004313542301093X)
 
-<span style="color:blue">**10.**</span> Hanžek N, Gligora Udovič M, **Kajan K**, Borics G, Várbíró G, Stoeck T, Orlić S, Stanković I. Comparative identification of phytoplankton taxonomic and functional group approach in karst lakes using classical microscopy and eDNA metabarcoding for ecological status assessment. Hydrobiologia (2023) doi: https://doi.org/10.1007/s10750-023-05344-x
+<span style="color:blue">**10.**</span> Hanžek N, Gligora Udovič M, **Kajan K**, Borics G, Várbíró G, Stoeck T, Orlić S, Stanković I. Comparative identification of phytoplankton taxonomic and functional group approach in karst lakes using classical microscopy and eDNA metabarcoding for ecological status assessment. Hydrobiologia (2023) doi: 10.1007/s10750-023-05344-x [LINK](https://link.springer.com/article/10.1007/s10750-023-05344-x)
 
-<span style="color:blue">**9.**</span> Kostešić E, Mitrović M, **Kajan K**, Marković T, Hausmann B, Orlić S, Pjevac P. Microbial diversity and activity of biofilms from geothermal springs in Croatia. Microbial ecology (2023) doi: https:10.1007/s00248-023-02239-1
+<span style="color:blue">**9.**</span> Kostešić E, Mitrović M, **Kajan K**, Marković T, Hausmann B, Orlić S, Pjevac P. Microbial diversity and activity of biofilms from geothermal springs in Croatia. Microbial ecology (2023) doi: https:10.1007/s00248-023-02239-1 [LINK](
 
-<span style="color:blue">**8.**</span> Čačković A, **Kajan K**, Selak L, Marković T, Brozinčević A, Pjevac P, Orlić S. Hydrochemical and Seasonally Conditioned Changes of Microbial Communities in the Tufa-Forming Freshwater Network Ecosystem. mSphere, (2023), e00602-22, doi:10.1128/msphere.00602-22
+<span style="color:blue">**8.**</span> Čačković A, **Kajan K**, Selak L, Marković T, Brozinčević A, Pjevac P, Orlić S. Hydrochemical and Seasonally Conditioned Changes of Microbial Communities in the Tufa-Forming Freshwater Network Ecosystem. mSphere, (2023), e00602-22, doi:10.1128/msphere.00602-22 [LINK](
 
 <span style="color:blue">**7.**</span> Marković T, Karlović I, Orlić S, **Kajan K**, Smith AC. Tracking the nitrogen cycle in a vulnerable alluvial system using a multi proxy approach: Case study Varaždin alluvial aquifer, Croatia. Science of The Total Environment 853 (2022), 158632, doi:10.1016/j.scitotenv.2022.158632
 
@@ -93,7 +93,11 @@ https://www.bib.irb.hr/ **Kajan, Katarina (35318)**
 
 11\. – 14\.03\.2024\. - *"Osnove programiranja (Python)"* tečaj - Srce - Online
 
-05\.– 06\.03\.2024\. *"Awareness in Data Management and Analysis for Industry and Research"* radionica - BioNT: Training and proessionalisation in computational life science - Online
+05\.– 06\.03\.2024\. - *"Awareness in Data Management and Analysis for Industry and Research"* radionica - BioNT: Training and proessionalisation in computational life science - Online
+
+11\.2023\. - *"Znanstvena komunikacija i medijski nastup"* radionica - komunikacijski trening - IRB, Zagreb
+
+24\. - 28\.10\.2022\. *"Training a New Generation of Scientists to Strengthen the Mesocosm Research Community"* radionica - AQUACOSM-plus- Autumn School Program - Cluj-Napoca, Romania
 
 2022\. - *"Korištenje računalnog klastera Isabella"* & *"Linux za korisnike Isabelle"* radionica tečaj - Srce - Online
 
