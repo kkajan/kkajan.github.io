@@ -53,7 +53,7 @@ Geološki odsjek, Prirodoslovno-matematički fakultet, Sveučilište u Zagrebu, 
 
 ## Publikacije
 
-Broj radova u WoS časopisima: **12**. Ukupni broj citata: **103**. H-indeks: **6**.
+Broj radova u WoS časopisima: **12**. Ukupni broj citata: **105**. H-indeks: **6**.
 
 <span style="color:blue">**12.**</span> **Kajan K**, Fuchs BM, Orlić S.  Insight into planktonic protistan and fungal communities across the nutrient-depleted environment of the South Pacific Subtropical Gyre. Microbiology spectrum (2024) doi: 10.1128/spectrum.03016-23 [LINK](https://journals.asm.org/doi/10.1128/spectrum.03016-23)
 
@@ -61,23 +61,23 @@ Broj radova u WoS časopisima: **12**. Ukupni broj citata: **103**. H-indeks: **
 
 <span style="color:blue">**10.**</span> Hanžek N, Gligora Udovič M, **Kajan K**, Borics G, Várbíró G, Stoeck T, Orlić S, Stanković I. Comparative identification of phytoplankton taxonomic and functional group approach in karst lakes using classical microscopy and eDNA metabarcoding for ecological status assessment. Hydrobiologia (2023) doi: 10.1007/s10750-023-05344-x [LINK](https://link.springer.com/article/10.1007/s10750-023-05344-x)
 
-<span style="color:blue">**9.**</span> Kostešić E, Mitrović M, **Kajan K**, Marković T, Hausmann B, Orlić S, Pjevac P. Microbial diversity and activity of biofilms from geothermal springs in Croatia. Microbial ecology (2023) doi: https:10.1007/s00248-023-02239-1 [LINK](
+<span style="color:blue">**9.**</span> Kostešić E, Mitrović M, **Kajan K**, Marković T, Hausmann B, Orlić S, Pjevac P. Microbial diversity and activity of biofilms from geothermal springs in Croatia. Microbial ecology (2023) doi: 10.1007/s00248-023-02239-1 [LINK](https://link.springer.com/article/10.1007/s00248-023-02239-1)
 
-<span style="color:blue">**8.**</span> Čačković A, **Kajan K**, Selak L, Marković T, Brozinčević A, Pjevac P, Orlić S. Hydrochemical and Seasonally Conditioned Changes of Microbial Communities in the Tufa-Forming Freshwater Network Ecosystem. mSphere, (2023), e00602-22, doi:10.1128/msphere.00602-22 [LINK](
+<span style="color:blue">**8.**</span> Čačković A, **Kajan K**, Selak L, Marković T, Brozinčević A, Pjevac P, Orlić S. Hydrochemical and Seasonally Conditioned Changes of Microbial Communities in the Tufa-Forming Freshwater Network Ecosystem. mSphere, (2023), e00602-22, doi: 10.1128/msphere.00602-22 [LINK](https://journals.asm.org/doi/10.1128/msphere.00602-22)
 
-<span style="color:blue">**7.**</span> Marković T, Karlović I, Orlić S, **Kajan K**, Smith AC. Tracking the nitrogen cycle in a vulnerable alluvial system using a multi proxy approach: Case study Varaždin alluvial aquifer, Croatia. Science of The Total Environment 853 (2022), 158632, doi:10.1016/j.scitotenv.2022.158632
+<span style="color:blue">**7.**</span> Marković T, Karlović I, Orlić S, **Kajan K**, Smith AC. Tracking the nitrogen cycle in a vulnerable alluvial system using a multi proxy approach: Case study Varaždin alluvial aquifer, Croatia. Science of The Total Environment 853 (2022), 158632, doi: 10.1016/j.scitotenv.2022.158632 [LINK](https://www.sciencedirect.com/science/article/pii/S004896972205731X)
 
-<span style="color:blue">**6.**</span> Hanžek N, Gligora Udovič M, **Kajan K**, Borics G, Várbíró G, Stoeck T, Žutinić P, Orlić S, Stanković I. Assessing ecological status in karstic lakes through the integration of phytoplankton functional groups, morphological approach and environmental DNA metabarcoding. Ecological Indicators, 131 (2021), 108166, 13 doi:10.1016/j.ecolind.2021.108166
+<span style="color:blue">**6.**</span> Hanžek N, Gligora Udovič M, **Kajan K**, Borics G, Várbíró G, Stoeck T, Žutinić P, Orlić S, Stanković I. Assessing ecological status in karstic lakes through the integration of phytoplankton functional groups, morphological approach and environmental DNA metabarcoding. Ecological Indicators, 131 (2021), 108166, 13 doi: 10.1016/j.ecolind.2021.108166 [LINK](https://www.sciencedirect.com/science/article/pii/S1470160X21008311)
 
-<span style="color:blue">**5.**</span> **Kajan K**, Cukrov N, Cukrov N, Bishop-Pierce R, Orlić S. Microeukaryotic and Prokaryotic Diversity of Anchialine Caves from Eastern Adriatic Sea Islands. Microbial ecology (2021) doi:10.1007/s00248-021-01760-5
+<span style="color:blue">**5.**</span> **Kajan K**, Cukrov N, Cukrov N, Bishop-Pierce R, Orlić S. Microeukaryotic and Prokaryotic Diversity of Anchialine Caves from Eastern Adriatic Sea Islands. Microbial ecology (2021) doi: 10.1007/s00248-021-01760-5 [LINK](https://link.springer.com/article/10.1007/s00248-021-01760-5)
 
-<span style="color:blue">**4.**</span> Jokanović S\*, **Kajan K\***, Perović S, Ivanić M, Mačić V, Orlić S. Anthropogenic influence on the environmental health along Montenegro coast based on the bacterial and chemical characterization. Environmental pollution, 271 (2021), 116383, 13 doi:10.1016/j.envpol.2020.116383
+<span style="color:blue">**4.**</span> Jokanović S\*, **Kajan K\***, Perović S, Ivanić M, Mačić V, Orlić S. Anthropogenic influence on the environmental health along Montenegro coast based on the bacterial and chemical characterization. Environmental pollution, 271 (2021), 116383, 13 doi: 10.1016/j.envpol.2020.116383 [LINK](https://www.sciencedirect.com/science/article/pii/S026974912037072X?via%3Dihub)
 
-<span style="color:blue">**3.**</span> Kulaš A, Marković T, Žutinić P, **Kajan K**, Karlović I, Orlić S, Keskin E, Filipović V, Gligora Udovič M. Succession of Microbial Community in a Small Water Body within the Alluvial Aquifer of a Large River. Water, 13 (2021), 2; 115, 23 doi:10.3390/w13020115
+<span style="color:blue">**3.**</span> Kulaš A, Marković T, Žutinić P, **Kajan K**, Karlović I, Orlić S, Keskin E, Filipović V, Gligora Udovič M. Succession of Microbial Community in a Small Water Body within the Alluvial Aquifer of a Large River. Water, 13 (2021), 2; 115, 23 doi: 10.3390/w13020115 [LINK](https://www.mdpi.com/2073-4441/13/2/115)
 
-<span style="color:blue">**2.**</span> Kulaš A, Gulin V, Matoničkin Kepčija R, Žutinić P, Sertić Perić M, Orlić S, **Kajan K**, Stoeck T, Lentendu G, Čanjevac I, et al. Ciliates (Alveolata, Ciliophora) as bioindicators of environmental pressure: A karstic river case. Ecological indicators, 124 (2021), 107430, 12 doi:10.1016/j.ecolind.2021.107430
+<span style="color:blue">**2.**</span> Kulaš A, Gulin V, Matoničkin Kepčija R, Žutinić P, Sertić Perić M, Orlić S, **Kajan K**, Stoeck T, Lentendu G, Čanjevac I, et al. Ciliates (Alveolata, Ciliophora) as bioindicators of environmental pressure: A karstic river case. Ecological indicators, 124 (2021), 107430, 12 doi: 10.1016/j.ecolind.2021.107430 [LINK](https://www.sciencedirect.com/science/article/pii/S1470160X21000959)
 
-<span style="color:blue">**1.**</span> Žuna Pfeiffer T, Špoljarić Maronić D, Zahirović V, Stević F, Zjalić M, **Kajan K**, Ozimec S, Mihaljević M. 2016. Early spring flora of the Sub-Pannonic steppic grassland (NATURA 2000 site) in Bilje, northeast Croatia. Acta Botanica Croatica 75 (2):157-163.   DOI: 10.1515/botcro-2016-0029
+<span style="color:blue">**1.**</span> Žuna Pfeiffer T, Špoljarić Maronić D, Zahirović V, Stević F, Zjalić M, **Kajan K**, Ozimec S, Mihaljević M. 2016. Early spring flora of the Sub-Pannonic steppic grassland (NATURA 2000 site) in Bilje, northeast Croatia. Acta Botanica Croatica 75 (2):157-163. doi: 10.1515/botcro-2016-0029 [LINK](https://www.abc.botanic.hr/index.php/abc/article/view/1570)
 
 ### Ostale publikacije
 
@@ -85,7 +85,7 @@ Broj radova u WoS časopisima: **12**. Ukupni broj citata: **103**. H-indeks: **
 
 ## Usmena i posterska priopčenja
 
-https://www.bib.irb.hr/ **Kajan, Katarina (35318)**
+https://www.croris.hr/ CroRIS ID **34860**
 
 ## Sudjelovanje na radionicama i tečajevima
 
@@ -131,6 +131,8 @@ Bioinformatičke analize	analiza NGS podataka (Unix, QIIME, QIIME2), temeljni ko
 
 **Python, SQL** - početnik
 
+**VisualStudioCode, MkDocs** - početnik
+
 ## Organizacijske vještine
 
 - Članica organizacijskog odbora za 5. Simpozij studenata doktorskih studija PMF-a 2021 - Prirodoslovno-matematički fakultet, Sveučilište u Zagrebu, Zagreb i Online
@@ -142,6 +144,12 @@ Bioinformatičke analize	analiza NGS podataka (Unix, QIIME, QIIME2), temeljni ko
 - 2022\. - Godišnja nagrada mladim znanstvenicima “Jasenka Pigac” za 2021. godinu
 - 10\.2019\. - Nagrada za poster na Interdisciplinary Endeavour in Technology at Nanoscale, Water and Environment, Split, Hrvatska
 - 2016\. - Rektorova nagrada za akademsku godinu 2015/2016
+
+## Mediji
+
+"Skriti svijet jezera: Ključne veze mikroorganizama u očuvanju okoliša" [LINK](https://www.irb.hr/Novosti/Skriti-svijet-jezera-Kljucne-veze-mikroorganizama-u-ocuvanju-okolisa?fbclid=IwAR2_z5nBQHL9fHyXHQFFnElR-lAHjibUBEBJ6deMh_CZUVJnF5qHsGlU3Aw)
+
+
 
 ### **Kontakt**
 E-mail: <span style="color:blue">**kkajan@irb.hr**</span>; <span style="color:blue">**katarina.kajan@gmail.com**</span>
