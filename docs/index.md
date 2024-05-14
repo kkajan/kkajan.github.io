@@ -87,6 +87,9 @@ Broj radova u WoS časopisima: **12**. Ukupni broj citata: **105**. H-indeks: **
 
 https://www.croris.hr/ CroRIS ID **34860**
 
+## Pozvana predavanja
+
+
 ## Sudjelovanje na radionicama i tečajevima
 
 04\.2024\. - *"Izrada web stranice"* radionica - Udruga Penkala & Gaseri - Online
@@ -119,11 +122,11 @@ https://www.croris.hr/ CroRIS ID **34860**
 
 ## Poslovne vještine
 
-Molekularne metode	PCR, Real-time PCR, CARD-FISH, BONCAT
+**Molekularne metode**	PCR, Real-time PCR, CARD-FISH, BONCAT
 
-Metode mikroskopije	determinacija fitoplanktonskih i perifitonskih algi u slatkovodnim ekosustavima
+**Metode mikroskopije**	determinacija fitoplanktonskih i perifitonskih algi u slatkovodnim ekosustavima
 
-Bioinformatičke analize	analiza NGS podataka (Unix, QIIME, QIIME2), temeljni korisnik “R”
+**Bioinformatičke analize**	analiza NGS podataka (Unix, QIIME, QIIME2), temeljni korisnik “R”
 
 ## Digitalne vještine
 
