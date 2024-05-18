@@ -155,7 +155,7 @@ https://www.croris.hr/ CroRIS ID **34860**
 
 
 ### **Kontakt**
-E-mail: <span style="color:blue">**kkajan@irb.hr**</span>; <span style="color:blue">**katarina.kajan@gmail.com**</span>
+E-mail: <span style="color:blue">**kkajan[et]irb[dot]hr**</span>; <span style="color:blue">**katarina[dot]kajan[et]gmail[dot]com**</span>
 
 - [X(Twitter)](https://twitter.com/KatarinaKajan)
 - [LinkedIn](https://www.linkedin.com/in/katarina-kajan-58262b142/)
